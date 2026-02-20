@@ -1,0 +1,41 @@
+baseURL = 'https://example.org/'
+languageCode = 'ja-jp'
+title = 'Ubi-Sense Lab'
+theme = 'ananke'
+
+[menu]
+
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 10
+
+  [[menu.main]]
+    name = "Research"
+    url = "/research/"
+    weight = 20
+
+  [[menu.main]]
+    name = "Members"
+    url = "/members/"
+    weight = 30
+
+  [[menu.main]]
+    name = "Publications"
+    url = "/publications/"
+    weight = 40
+
+  [[menu.main]]
+    name = "Awards"
+    url = "/awards/"
+    weight = 45
+
+  [[menu.main]]
+    name = "研究室で学びたい人へ"
+    url = "/students/"
+    weight = 50
+
+  [[menu.main]]
+    name = "News"
+    url = "/posts/"
+    weight = 60
