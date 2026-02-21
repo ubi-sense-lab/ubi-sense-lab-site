@@ -1,0 +1,28 @@
+/* ===== Force left align in main content across all breakpoints (Ananke/Tachyons) ===== */
+
+/* 本文領域は常に左寄せ */
+main,
+main article,
+main .measure,
+main .nested-copy-line-height,
+main .nested-links {
+  text-align: left !important;
+}
+
+/* Tachyons のセンタリング系クラスを “本文内だけ” 全部左寄せに上書き */
+main .tc,
+main .tc-ns,
+main .tc-l,
+main .center,
+main .center-ns,
+main .center-l {
+  text-align: left !important;
+}
+
+/* 念のため：幅が広い時に付くクラスにも勝つ（-ns / -l） */
+@media screen and (min-width: 30em) { /* ns */
+  main .tc-ns, main .center-ns { text-align: left !important; }
+}
+@media screen and (min-width: 60em) { /* l */
+  main .tc-l, main .center-l { text-align: left !important; }
+}

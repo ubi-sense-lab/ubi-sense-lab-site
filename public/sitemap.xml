@@ -2,22 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/</loc>
+    <loc>https://ubi-sense-lab.github.io/lab-web/research/</loc>
   </url><url>
-    <loc>https://example.org/awards/</loc>
+    <loc>https://ubi-sense-lab.github.io/lab-web/</loc>
+    <lastmod>2026-02-19T17:56:48+09:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://ubi-sense-lab.github.io/lab-web/posts/2026-02-19kitano/</loc>
+    <lastmod>2026-02-19T17:56:48+09:00</lastmod>
   </url><url>
-    <loc>https://example.org/members/</loc>
+    <loc>https://ubi-sense-lab.github.io/lab-web/posts/</loc>
+    <lastmod>2026-02-19T17:56:48+09:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/</loc>
+    <loc>https://ubi-sense-lab.github.io/lab-web/posts/2026-02-18-master-thesis-defense/</loc>
+    <lastmod>2026-02-18T17:56:48+09:00</lastmod>
   </url><url>
-    <loc>https://example.org/publications/</loc>
+    <loc>https://ubi-sense-lab.github.io/lab-web/posts/2026-02-03-b/</loc>
+    <lastmod>2026-02-03T17:56:48+09:00</lastmod>
   </url><url>
-    <loc>https://example.org/research/</loc>
+    <loc>https://ubi-sense-lab.github.io/lab-web/posts/2026iwait/</loc>
+    <lastmod>2026-01-13T17:56:48+09:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://ubi-sense-lab.github.io/lab-web/posts/2025hcgsympo/</loc>
+    <lastmod>2025-12-13T17:56:48+09:00</lastmod>
   </url><url>
-    <loc>https://example.org/students/</loc>
+    <loc>https://ubi-sense-lab.github.io/lab-web/awards/</loc>
+  </url><url>
+    <loc>https://ubi-sense-lab.github.io/lab-web/categories/</loc>
+  </url><url>
+    <loc>https://ubi-sense-lab.github.io/lab-web/members/</loc>
+  </url><url>
+    <loc>https://ubi-sense-lab.github.io/lab-web/publications/</loc>
+  </url><url>
+    <loc>https://ubi-sense-lab.github.io/lab-web/tags/</loc>
+  </url><url>
+    <loc>https://ubi-sense-lab.github.io/lab-web/students/</loc>
   </url>
 </urlset>

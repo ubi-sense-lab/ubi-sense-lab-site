@@ -2,10 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Ubi-Sense Lab</title>
-    <link>https://example.org/posts/</link>
+    <link>https://ubi-sense-lab.github.io/lab-web/posts/</link>
     <description>Recent content in Posts on Ubi-Sense Lab</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
-    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 19 Feb 2026 17:56:48 +0900</lastBuildDate>
+    <atom:link href="https://ubi-sense-lab.github.io/lab-web/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2026/02/19 北野さん「工学院大学大学院生優秀論文」を受賞</title>
+      <link>https://ubi-sense-lab.github.io/lab-web/posts/2026-02-19kitano/</link>
+      <pubDate>Thu, 19 Feb 2026 17:56:48 +0900</pubDate>
+      <guid>https://ubi-sense-lab.github.io/lab-web/posts/2026-02-19kitano/</guid>
+      <description>&lt;p&gt;M1の北野さんが「工学院大学大学院生優秀論文」を受賞しました．北野さんおめでとうございます．&lt;/p&gt;&#xA;&lt;p&gt;2/19に優秀論文発表会がオンラインで開催されました．情報学専攻で優秀論文として選出されたのは3件で，北野さん以外は博士課程の学生さんでした．M1での優秀論文選出ということで快挙です．&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2026/02/18 修論審査会が開催されました</title>
+      <link>https://ubi-sense-lab.github.io/lab-web/posts/2026-02-18-master-thesis-defense/</link>
+      <pubDate>Wed, 18 Feb 2026 17:56:48 +0900</pubDate>
+      <guid>https://ubi-sense-lab.github.io/lab-web/posts/2026-02-18-master-thesis-defense/</guid>
+      <description>&lt;p&gt;2026年2月17，18日に工学院大学大学院工学研究科情報学専攻の修論審査会が開催されました．ユビキタスセンシング研究室のメンバーは全員2月18日に発表しました．4名とも良い発表をしてくれました．発表お疲れさまでした．&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2026/02/02-03 卒論発表会が開催されました</title>
+      <link>https://ubi-sense-lab.github.io/lab-web/posts/2026-02-03-b/</link>
+      <pubDate>Tue, 03 Feb 2026 17:56:48 +0900</pubDate>
+      <guid>https://ubi-sense-lab.github.io/lab-web/posts/2026-02-03-b/</guid>
+      <description>&lt;p&gt;2026年2月2日，3日の二日間に渡って卒論発表会が行われました．ユビキタスセンシング研究室からは9名（正式な所属は他研究室なのですが実質ユビキタスセンシング研究室で研究を行った1名の合計10名）が立派な発表をしてくれました．皆さんお疲れさまでした．&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2026/01/15 IWAIT2026 で小川さん、三浦さんが発表</title>
+      <link>https://ubi-sense-lab.github.io/lab-web/posts/2026iwait/</link>
+      <pubDate>Tue, 13 Jan 2026 17:56:48 +0900</pubDate>
+      <guid>https://ubi-sense-lab.github.io/lab-web/posts/2026iwait/</guid>
+      <description>&lt;p&gt;2026年1月12日～13日に台湾の高雄で開催されたIWAIT2026でM2の小川さんと三浦さんがそれぞれ発表を行いました．小川さんは，打者が打席に入る際のルーティンを自動抽出し，変化を分析する取り組みを発表しました．三浦さんは，VRを用いたバッティングトレーニングの新しい形態としてティーバッティングを，詳細なスイング分析をしながら実行するという練習方法の提案を発表しました．&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2025/12/12 HCGシンポジウム 青木真吾さんが最優秀インタラクティブ発表賞を受賞</title>
+      <link>https://ubi-sense-lab.github.io/lab-web/posts/2025hcgsympo/</link>
+      <pubDate>Sat, 13 Dec 2025 17:56:48 +0900</pubDate>
+      <guid>https://ubi-sense-lab.github.io/lab-web/posts/2025hcgsympo/</guid>
+      <description>&lt;p&gt;M2の青木真吾さんがHCGシンポジウム2025で発表しました．埼玉西武ライオンズ、NTTと共同で取り組んだテーマで、打者のタイミング能力を計測するという取り組みです．青木さんの発表は最優秀インタラクティブ発表賞をもらうことができました．青木さんおめでとうございます．そして協力してくださった皆様に感謝いたします．&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

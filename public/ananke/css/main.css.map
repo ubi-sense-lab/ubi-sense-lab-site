@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "D:/Work/ubi-sense-lab-site",
+	"sourceRoot": "D:/work/ubi-sense-lab-site",
 	"sources": [
 		"ananke/css/main.css"
 	],
