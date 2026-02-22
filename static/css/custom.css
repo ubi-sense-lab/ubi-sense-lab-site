@@ -72,3 +72,10 @@ header .ph4-ns {
   padding-left: 1.5rem !important;
   padding-right: 1.5rem !important;
 }
+
+* header内の縦padding固定 */
+header div[class*="pv"] {
+  padding-top: 1rem !important;
+  padding-bottom: 1rem !important;
+}
+
