@@ -50,7 +50,7 @@ header .tc-l {
 /* “ページタイトル”の文字サイズを固定（大画面で勝手に大きくならないように） */
 header h1,
 header .lh-title {
-  font-size: 1.6rem !important;   /* 好みで 1.4〜1.8rem */
+  font-size: 1.8rem !important;   /* 好みで 1.4〜1.8rem */
   line-height: 1.2 !important;
 }
 
