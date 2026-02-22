@@ -32,7 +32,7 @@ description: "ユビキタスセンシング研究室の代表的な研究テー
 - リハビリ・ヘルスケア（関節の動きの計測）
 - 高精度な姿勢推定AIの学習データ作成
 
-{{< figure src="/lab-web/images/research/migihiza1.png" caption="左は可視画像。LEDは見えない。右はIR画像。LEDが透過して確認できる。" >}}
+{{< figure src="/ubi-sense-lab-site/images/research/migihiza1.png" caption="左は可視画像。LEDは見えない。右はIR画像。LEDが透過して確認できる。" >}}
 
 **関連する成果：**
 - 山口貴善, 三上弾, 松村聖司, 西條直樹, 柏野牧夫, ゆったりとした衣服を着用した人物の姿勢推定: HFR カメラと複数 LED を用いた学習データ作成, IEICE-MVE, 2023 **MVE賞およびヒューマンコミュニケーション賞受賞**
@@ -61,5 +61,5 @@ IR カメラと赤外線LED を用いた基礎検証, IEICE-MVE, 2025
 長打が生まれたスイングだけを抽出し，そこから統計的に“理想的なスイング開始タイミング”を定義します。各打者がその理想タイミングからどれだけずれているかを数値化することで，実戦環境におけるタイミング能力を評価します。
 
  
-{{< figure src="/lab-web/images/research/aoki.jpg" caption="理想タイミングからのずれと打撃成績の関係" >}}
+{{< figure src="/ubi-sense-lab-site/images/research/aoki.jpg" caption="理想タイミングからのずれと打撃成績の関係" >}}
 
