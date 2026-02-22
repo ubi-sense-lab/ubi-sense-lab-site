@@ -26,3 +26,11 @@ main .center-l {
 @media screen and (min-width: 60em) { /* l */
   main .tc-l, main .center-l { text-align: left !important; }
 }
+
+.mw8 {
+  max-width: 100rem !important;
+}
+
+.mw7 {
+  max-width: 90rem !important;
+}
