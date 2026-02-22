@@ -50,7 +50,7 @@ header .tc-l {
 /* “ページタイトル”の文字サイズを固定（大画面で勝手に大きくならないように） */
 header h1,
 header .lh-title {
-  font-size: 1.8rem !important;   /* 好みで 1.4〜1.8rem */
+  font-size: 2.0rem !important;   /* 好みで 1.4〜1.8rem */
   line-height: 1.2 !important;
 }
 
@@ -109,3 +109,23 @@ header div[class*="pv"] {
   }
 }
 
+
+/* ===== Header（黒帯）の見た目を固定：幅が広くなっても太らない＆左寄せ ===== */
+
+/* large(>=60em ≒ 960px) で黒帯が太る原因 pb6-l を抑制 */
+@media screen and (min-width: 60em) {
+  header .pb6-l {
+    padding-bottom: 1rem !important; /* 好みで 0.8〜1.4rem */
+  }
+
+  /* ページタイトルの巨大化（f-subheadline-l）を止める */
+  header .f-subheadline-l {
+    font-size: 2rem !important;      /* 好みで 1.6〜2.2rem */
+    line-height: 1.2 !important;
+  }
+
+  /* large時のセンタリング(tc-l)をやめて左寄せに固定 */
+  header .tc-l {
+    text-align: left !important;
+  }
+}
