@@ -34,3 +34,7 @@ main .center-l {
 .mw7 {
   max-width: 90rem !important;
 }
+
+.measure-wide {
+  max-width: 90rem !important;
+}
