@@ -79,3 +79,25 @@ header div[class*="pv"] {
   padding-bottom: 1rem !important;
 }
 
+/* ===== ヘッダー（黒帯）の縦幅を large(>=60em)でも増やさない ===== */
+@media screen and (min-width: 60em) {
+
+  /* まず header 自体が pv*-l を持っている場合 */
+  header.pv3-l, header.pv4-l, header.pv5-l {
+    padding-top: 1rem !important;
+    padding-bottom: 1rem !important;
+  }
+
+  /* header内のどこか（div/nav/section等）に pv*-l が付いている場合 */
+  header .pv3-l, 
+  header .pv4-l, 
+  header .pv5-l {
+    padding-top: 1rem !important;
+    padding-bottom: 1rem !important;
+  }
+
+  /* ついでに、万一 min-height/line-height で膨らむケースも抑える */
+  header {
+    min-height: 0 !important;
+  }
+}
