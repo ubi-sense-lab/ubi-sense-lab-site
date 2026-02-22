@@ -1,4 +1,4 @@
-baseURL = 'https://ubi-sense-lab.github.io/lab-web/'
+baseURL = 'https://ubi-sense-lab.github.io/ubi-sense-lab-site/'
 languageCode = 'ja-jp'
 title = 'Ubi-Sense Lab'
 theme = 'ananke'
