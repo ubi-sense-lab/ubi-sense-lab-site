@@ -28,13 +28,47 @@ main .center-l {
 }
 
 .mw8 {
-  max-width: 100rem !important;
+  max-width: 80rem !important;
 }
 
 .mw7 {
-  max-width: 90rem !important;
+  max-width: 70rem !important;
 }
 
 .measure-wide {
-  max-width: 90rem !important;
+  max-width: 70rem !important;
+}
+
+/* ===== Header（黒帯のタイトル）を左寄せ＆サイズ固定 ===== */
+
+/* 黒帯（ヘッダー）内のテキストを大画面でも左寄せに固定 */
+header .tc,
+header .tc-l {
+  text-align: left !important;
+}
+
+/* “ページタイトル”の文字サイズを固定（大画面で勝手に大きくならないように） */
+header h1,
+header .lh-title {
+  font-size: 1.6rem !important;   /* 好みで 1.4〜1.8rem */
+  line-height: 1.2 !important;
+}
+
+/* Tachyonsの large で付く巨大サイズ（f-subheadline-l 等）を無効化 */
+@media screen and (min-width: 60em) {
+  header .f-subheadline-l,
+  header .f1-l,
+  header .f2-l,
+  header .f3-l {
+    font-size: 1.6rem !important;
+  }
+}
+
+/* ヘッダー文字の左位置を整える（余白を一定に） */
+header .pv3,
+header .pv4,
+header .ph3,
+header .ph4-ns {
+  padding-left: 1.5rem !important;
+  padding-right: 1.5rem !important;
 }
