@@ -2,6 +2,7 @@ baseURL = 'https://ubi-sense-lab.github.io/ubi-sense-lab-site/'
 languageCode = 'ja-jp'
 title = 'Ubi-Sense Lab'
 theme = 'ananke'
+googleAnalytics = "G-GQF8R17J89"
 
 [params]
   custom_css = ["css/custom.css"]
