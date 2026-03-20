@@ -1,0 +1,27 @@
+<header class="bg-dark-blue">
+  <div class="mw9 center ph3 ph4-ns pv3 pv4-l">
+    <div class="flex-l items-center justify-between">
+      
+      <div class="w-40-l pr4-l white">
+        <h1 class="f2 f1-l fw2 mb3 white">
+          {{ .Site.Title }}
+        </h1>
+
+        {{ with .Site.Params.description }}
+          <p class="f5 f4-l lh-copy measure-wide mb0 white-80">
+            {{ . }}
+          </p>
+        {{ end }}
+      </div>
+
+      <div class="w-60-l mt4 mt0-l">
+        <img
+          src='{{ "images/top2.png" | relURL }}'
+          alt="Ubi-Sense Laboratory hero image"
+          class="db w-100 br3 shadow-4"
+        >
+      </div>
+
+    </div>
+  </div>
+</header>
