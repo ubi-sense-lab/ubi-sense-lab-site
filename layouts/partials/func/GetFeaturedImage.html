@@ -1,0 +1,7 @@
+{{- $featured_image := "" -}}
+
+{{- with .Params.featured_image -}}
+  {{- $featured_image = . | strings.TrimPrefix "/" | absURL -}}
+{{- end -}}
+
+{{- return $featured_image -}}
