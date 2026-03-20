@@ -4,7 +4,7 @@ title: " ユビキタスセンシング研究室"
 
 ---
 
-<img src="/images/top.jpg" style="width:100%; margin-bottom:20px;">
+<img src="/images/top.png" style="width:100%; margin-bottom:20px;">
 
 工学院大学 情報学部 コンピュータ科学科 ユビキタスセンシング研究室（指導教員：三上）のWebサイトです．
 
