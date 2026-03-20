@@ -6,7 +6,7 @@ title: " ユビキタスセンシング研究室"
 
 <div style="background:#111111; padding:40px 0; margin-bottom:40px;">
   <div style="max-width:1200px; margin:0 auto;">
-    <img src="/ubi-sense-lab-site/images/top2.png" 
+    <img src="images/top2.png" 
          style="width:100%; border:6px solid white; display:block;">
   </div>
 </div>
