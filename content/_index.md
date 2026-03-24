@@ -1,7 +1,7 @@
 ---
 
 title: " ユビキタスセンシング研究室"
-featured_image = "images/20260319.JPG"
+featured_image: "images/20260319.JPG"
 ---
 
 
