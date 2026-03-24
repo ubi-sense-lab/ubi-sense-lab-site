@@ -73,11 +73,12 @@
 
   <body class="{{ delimit $body_classes " " }}">
     {{ block "header" . }}{{ partials.Include "site-header.html" .}}{{ end }}
+<!--       
+
 {{ if .IsHome }}
 <div style="background:#000000; padding:18px 0;">
   <div class="mw9 center ph3 ph4-ns"
        style="display:flex; justify-content:flex-end; align-items:center;">
-<!--       
     <div style="width:48%;">
       <img
         src='{{ "images/top2.png" | relURL }}'
@@ -85,9 +86,9 @@
         style="width:100%; display:block; border:0px solid #f2f2f2; box-sizing:border-box;"
       >
     </div>
--->
   </div>
 </div>
+-->
 {{ end }}
     <main class="pb7" role="main">
       {{ block "main" . }}{{ end }}
