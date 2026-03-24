@@ -5,7 +5,7 @@ theme = 'ananke'
 googleAnalytics = "G-GQF8R17J89"
 
 [params]
-  custom_css = ["css/custom.css"]
+#  custom_css = ["css/custom.css"]
 
 [menu]
 
