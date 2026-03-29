@@ -20,27 +20,15 @@ CVPR は、コンピュータビジョン分野における世界最高峰の国
 
 
 
-(1)
-
-Daishi Kitano, Seiji Matsumura, Naoki Saijo, Makio Kashino, Dan Mikami
-
-Direct Measurement of Human Joint Positions under Clothing using Coaxial RGB–Infrared Imaging
-
-Proceedings of CVPR Workshops (CVSports), 2026 (Accepted)
+(1) Daishi Kitano, Seiji Matsumura, Naoki Saijo, Makio Kashino, and Dan Mikami, Direct Measurement of Human Joint Positions under Clothing using Coaxial RGB–Infrared Imaging, Proceedings of CVPR Workshops (CVSports), 2026 (Accepted)
 
 
 
-服の下に隠れた関節位置を、RGBと赤外の同軸撮影により直接計測する新しい計測手法を提案しています。
+服の下に隠れた関節位置を、RGBと赤外の同軸撮影により直接計測する新しい計測手法を提案しています。本研究は、NTT株式会社 コミュニケーション科学基礎研究所との共同研究として実施しました。
 
 
 
-(2)
-
-Hiro Horino, Daishi Kitano, Dan Mikami
-
-Non-Intrusive Monocular 3D Ball Tracking via Infrared Shadow Geometry for Practical Sports Applications
-
-Proceedings of CVPR Workshops (CVSports), 2026 (Accepted)
+(2) Hiro Horino, Daishi Kitano, and Dan Mikami, Non-Intrusive Monocular 3D Ball Tracking via Infrared Shadow Geometry for Practical Sports Applications, Proceedings of CVPR Workshops (CVSports), 2026 (Accepted)
 
 
 
@@ -52,13 +40,11 @@ Proceedings of CVPR Workshops (CVSports), 2026 (Accepted)
 
 
 
-(3)
+(3) Kanta Sawafuji, Rintaro Otsubo, Dan Mikami, Hideo Saito, 3D Reconstruction of American Football Game Situations from Handheld Monocular Video, Proceedings of CVPR Workshops (CVSports), 2026 (Accepted)
 
-Kanta Sawafuji, Rintaro Otsubo, Dan Mikami, Hideo Saito
 
-3D Reconstruction of American Football Game Situations from Handheld Monocular Video
 
-Proceedings of CVPR Workshops (CVSports), 2026 (Accepted)
+本研究は、慶應義塾大学 斎藤英雄研究室との共同研究です。
 
 
 
