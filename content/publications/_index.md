@@ -21,7 +21,7 @@ IEEJ Transactions on Electrical and Electronic Engineering, 19 (8), pp. 1387-139
   - Mariko Isogawa, Dan Mikami, Kosuke Takahashi, and Hideaki Kimata, Image quality assessment for inpainted images via learning to rank, Multimedia Tools and Applications, Vol.78, Issue 2, pp.1399-1418, 2019.
   - Mariko Isogawa, Dan Mikami, Daisuke Iwai, Hideaki Kimata, and Kosuke Sato, Mask optimization for image inpainting, IEEE Access, 2018. 
   - Shogo Miyata, Hideo Saito, Kosuke Takahashi, Dan Mikami, Mariko Isogawa, and Akira Kojima, Extrinsic camera calibration without visible corresponding points using omnidirectional cameras, IEEE Transactions on Circuits and Systems for Video Technology, Vol.28, Issue 9, pp.2210-2219, 2017.
-  - Mariko Isogawa, Dan Mikami, Kosuke Takahashi, and Akira Kojima, Image and video completion via feature reduction and compensation, Multimedia Tools and Applications, Vol.76, Issue 7, pp.9443-9462, 2017.
+  - Mariko Isogawa, Dan Mikami, Kosuke Tsakahashi, and Akira Kojima, Image and video completion via feature reduction and compensation, Multimedia Tools and Applications, Vol.76, Issue 7, pp.9443-9462, 2017.
   - Hidenobu Nagata, Dan Mikami, Hiromu Miyashita, Keigo Wakayama, and Hideaki Takada, Virtual reality technologies in telecommunication services, Journal of Information Processing, Vol.25, pp.142-152, 2017.
   - Kosuke Takahashi, Dan Mikami, Mariko Isogawa, and Akira Kojima, Extrinsic camera calibration with minimal configuration using cornea model and equidistance constraint, IPSJ Transactions on Computer Vision and Applications, Vol.8, pp.20-28, 2016.
   - 三上弾， 松本鮎美， 門田浩二， 川村晴美， 小島明, 動作学習のための遅延同期ビデオフィードバックシステム, 情報処理学会論文誌コンシューマ・システム＆デバイス, Vol.4, Issue 1, pp.22-31, 2014.
@@ -34,6 +34,9 @@ IEEJ Transactions on Electrical and Electronic Engineering, 19 (8), pp. 1387-139
 
 
 ## 国際会議
+  - Daishi Kitano, Seiji Matsumura, Naoki Saijo, Makio Kashino, Dan Mikami, Direct Measurement of Human Joint Positions under Clothing using Coaxial RGB–Infrared Imaging, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVSports), 2026 (Accepted)
+  - Hiro Horino, Daishi Kitano, Dan Mikami, Non-Intrusive Monocular 3D Ball Tracking via Infrared Shadow Geometry for Practical Sports Applications, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVSports), 2026 (Accepted)
+  - Kanta Sawafuji, Rintaro Otsubo, Dan Mikami, Hideo Saito, 3D Reconstruction of American Football Game Situations from Handheld Monocular Video, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVSports), 2026 (Accepted)
   - Ririka Ogawa, SeijiMatsumura, Naoki Saijo,Makio Kashino and DanMikami, Video-Based Extraction andAnalysis of Pre-Batting Routines inBaseball, IWAIT2026, 2026.
   - Hayato Miura and Dan Mikami, VR-based Reaching MotionEvaluation in Baseball Batting, IWAIT2026, 2026.
   - Ryosuke Hori, Ryo Hachiuma, Hideo Saito, Mariko Isogawa, and Dan Mikami, Silhouette-based synthetic data generation for 3D human pose estimation with a single wrist-mounted 360° camera, Proc.2021 IEEE International Conference on Image Processing (ICIP), pp.1304-1308, 2021.
@@ -52,6 +55,8 @@ IEEJ Transactions on Electrical and Electronic Engineering, 19 (8), pp. 1387-139
 
 
 ## 研究会
+  - 瀧川忠大，三上弾, VRバッティングシステムにおける投手提示手法の検討, 映像情報メディア学会スポーツ情報処理研究会（ITE-SIP）, 2026.
+  - 堀野陽路，北野大志，三上弾，赤外光とボール影の同時観測による視覚非干渉型単眼三次元軌道計測, MVE2025-31, 2026.
   - 青木真吾, 北澤翔太, 西條直樹, 三上弾, 試合データに基づく打者タイミング能力の評価指標の提案, 
 HCGシンポジウム2025, 2025 **最優秀インタラクティブ発表賞受賞**
   - 小川莉莉香, 松村聖司, 西條直樹, 柏野牧夫, 三上弾, 類似動作に着目した野球選手のルーティンの構造化, MVE2025-18, 2025.
