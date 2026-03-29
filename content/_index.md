@@ -17,8 +17,6 @@ featured_image: "images/20260319.JPG"
 
 ## News
 
-最近のニュース
-
-[すべてのニュースを見る](/ubi-sense-lab-site/posts/)
+最近のニュース  [すべてのニュースを見る](/ubi-sense-lab-site/posts/)
 
 
