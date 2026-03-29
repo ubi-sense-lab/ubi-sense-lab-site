@@ -1,9 +1,7 @@
 +++
 date = '2026-03-29T17:56:48+09:00'
 draft = false
-title = '2026/03/26 CVPR Workshop（CVSports 2026）に3件の論文が採択されました
-
-'
+title = '2026/03/26 CVPR Workshop（CVSports 2026）に3件の論文が採択されました'
 +++
 
 
