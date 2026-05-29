@@ -40,6 +40,11 @@ googleAnalytics = "G-GQF8R17J89"
     weight = 50
 
   [[menu.main]]
+    name = "動画コンテンツ"
+    url = "/Video/"
+    weight = 55
+
+  [[menu.main]]
     name = "News"
     url = "/posts/"
     weight = 60
