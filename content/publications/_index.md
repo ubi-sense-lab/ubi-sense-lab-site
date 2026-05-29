@@ -34,8 +34,8 @@ IEEJ Transactions on Electrical and Electronic Engineering, 19 (8), pp. 1387-139
 
 
 ## 国際会議
-  - Daishi Kitano, Seiji Matsumura, Naoki Saijo, Makio Kashino, Dan Mikami, Direct Measurement of Human Joint Positions under Clothing using Coaxial RGB–Infrared Imaging, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVSports), 2026 (Accepted)[Poster]({{< relref "/pdf/CVSports2026_poster/CVsports_poster_kitano.pdf" >}})
-  - Hiro Horino, Daishi Kitano, Dan Mikami, Non-Intrusive Monocular 3D Ball Tracking via Infrared Shadow Geometry for Practical Sports Applications, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVSports), 2026 (Accepted)[Poster]({{< relref "/pdf/CVSports2026_poster/CVsports_poster_horino.pdf" >}})
+  - Daishi Kitano, Seiji Matsumura, Naoki Saijo, Makio Kashino, Dan Mikami, Direct Measurement of Human Joint Positions under Clothing using Coaxial RGB–Infrared Imaging, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVSports), 2026 (Accepted)[Poster](CVsports_poster_kitano.pdf)
+  - Hiro Horino, Daishi Kitano, Dan Mikami, Non-Intrusive Monocular 3D Ball Tracking via Infrared Shadow Geometry for Practical Sports Applications, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVSports), 2026 (Accepted)[Poster](CVsports_poster_horino.pdf)
   - Kanta Sawafuji, Rintaro Otsubo, Dan Mikami, Hideo Saito, 3D Reconstruction of American Football Game Situations from Handheld Monocular Video, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVSports), 2026 (Accepted)
   - Ririka Ogawa, SeijiMatsumura, Naoki Saijo,Makio Kashino and DanMikami, Video-Based Extraction andAnalysis of Pre-Batting Routines inBaseball, IWAIT2026, 2026.
   - Hayato Miura and Dan Mikami, VR-based Reaching MotionEvaluation in Baseball Batting, IWAIT2026, 2026.
