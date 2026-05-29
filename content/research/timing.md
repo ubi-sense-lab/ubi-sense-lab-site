@@ -1,7 +1,7 @@
 ---
 title: "Data-Driven Evaluation of Batting Timing"
 date: 2026-05-29
-featured_image: "/images/research/aoki.jpg"
+featured_image: "images/research/aoki.jpg"
 summary: "タイミング能力に関する研究"
 ---
 
