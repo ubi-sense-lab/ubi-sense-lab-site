@@ -1,7 +1,7 @@
 ---
 title: "Clothing-Transparent Motion Capture"
 date: 2026-05-29
-featured_image: "images/research/migihiza1.png"
+featured_image: "migihiza1.png"
 summary: "近赤外光の透過性を活用した姿勢推定"
 ---
 
