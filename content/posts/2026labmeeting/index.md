@@ -10,5 +10,4 @@ featured_image = "images/20260526.jpg"
 
 <!--more-->
 
-![photo1](1.jpg)
 ![photo2](2.jpg)
