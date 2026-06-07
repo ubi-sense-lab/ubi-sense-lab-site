@@ -8,7 +8,7 @@ CV分野最難関国際会議のひとつであるCVPRに参加しています�
 
 
 
-![photo1](IMG2690.jpg)
+![photo1](https://ubi-sense-lab.github.io/ubi-sense-lab-site/images/IMG2690.jpg)
 
 <!--more-->
 
