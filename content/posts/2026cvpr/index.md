@@ -7,8 +7,7 @@ title = '2026/06/4 CVPRW CVSports で、M2北野さん、M1堀野さん発表'
 CV分野最難関国際会議のひとつであるCVPRに参加しています。M2の北野さん、M1の堀野さんがWorkshopであるCVSportsで発表しました。CVSportsは今年で12回目と伝統あるワークショップです。
 
 
-
-![photo1](IMG_2690.jpg)
+![photo1](IMG2690.jpg)
 
 <!--more-->
 
@@ -22,8 +21,8 @@ Daishi Kitano, Seiji Matsumura, Naoki Saijo, Makio Kashino, and Dan Mikami, Dire
 
 
 
-![photo2](IMG_2727.jpg)
-![photo3](IMG_2721.jpg)
+![photo2](IMG2727.jpg)
+![photo3](IMG2721.jpg)
 
 
 
@@ -37,8 +36,8 @@ Hiro Horino, Daishi Kitano, and Dan Mikami, Non-Intrusive Monocular 3D Ball Trac
 
 
 
-![photo4](IMG_2726.jpg)
-![photo5](IMG_2722.jpg)
+![photo4](IMG2726.jpg)
+![photo5](IMG2722.jpg)
 
 
 
