@@ -8,7 +8,7 @@ CV分野最難関国際会議のひとつであるCVPRに参加しています�
 
 
 
-!\[photo1](IMG\_2690.jpg)
+![photo1](IMG_2690.jpg)
 
 <!--more-->
 
@@ -22,8 +22,8 @@ Daishi Kitano, Seiji Matsumura, Naoki Saijo, Makio Kashino, and Dan Mikami, Dire
 
 
 
-!\[photo2](IMG\_2727.jpg)
-!\[photo3](IMG\_2721.jpg)
+![photo2](IMG_2727.jpg)
+![photo3](IMG_2721.jpg)
 
 
 
@@ -37,8 +37,8 @@ Hiro Horino, Daishi Kitano, and Dan Mikami, Non-Intrusive Monocular 3D Ball Trac
 
 
 
-!\[photo4](IMG\_2726.jpg)
-!\[photo5](IMG\_2722.jpg)
+![photo4](IMG_2726.jpg)
+![photo5](IMG_2722.jpg)
 
 
 
