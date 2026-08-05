@@ -15,5 +15,5 @@ featured_image = "images/IMG_5026.png"
 <!--more-->
 ![photo1](IMG_5026.png)
 ![photo2](IMG_5021.png)
-![photo3](IMG_5020.png)
+![photo3](IMG_5020.jpg)
 ![photo4](IMG_5022.png)
