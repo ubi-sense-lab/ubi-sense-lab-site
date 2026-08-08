@@ -1,5 +1,5 @@
 +++
-date = '2026-08-05T17:56:48+09:00'
+date = '2026-08-07T17:56:48+09:00'
 draft = false
 title = '2026/08/7 スポーツ情報処理研究会'
 featured_image = "images/horino.jpg"
