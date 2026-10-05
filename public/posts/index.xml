@@ -2,53 +2,165 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Ubi-Sense Lab</title>
-    <link>https://ubi-sense-lab.github.io/lab-web/posts/</link>
+    <link>https://ubi-sense-lab.github.io/ubi-sense-lab-site/posts/</link>
     <description>Recent content in Posts on Ubi-Sense Lab</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Thu, 19 Feb 2026 17:56:48 +0900</lastBuildDate>
-    <atom:link href="https://ubi-sense-lab.github.io/lab-web/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 18 Sep 2026 17:56:48 +0900</lastBuildDate>
+    <atom:link href="https://ubi-sense-lab.github.io/ubi-sense-lab-site/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2026/09/16-18 ヒューマンインタフェースシンポジウム2026</title>
+      <link>https://ubi-sense-lab.github.io/ubi-sense-lab-site/posts/2026his/</link>
+      <pubDate>Fri, 18 Sep 2026 17:56:48 +0900</pubDate>
+      <guid>https://ubi-sense-lab.github.io/ubi-sense-lab-site/posts/2026his/</guid>
+      <description>&lt;p&gt;2026年9月16-18日に岡山大学津島キャンパスでヒューマンインタフェースシンポジウム2026が開催されました。ユビキタスセンシング研究室からは、B4の橋本君が発表しました。&lt;/p&gt;&#xA;&lt;p&gt;橋本一輝，三上弾，ARを用いたタイミング学習支援，ヒューマンインタフェースシンポジウム2026&lt;/p&gt;&#xA;&lt;p&gt;ARで作業支援をする取り組みはたくさんありますが、作業のタイミングをARを使ってうまく学習するという取り組みはほとんどないという点に注目して、大縄跳びを題材にした取り組みをしてくれました。多くの皆さんと議論できてとても良かったです。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2026/08/7 スポーツ情報処理研究会</title>
+      <link>https://ubi-sense-lab.github.io/ubi-sense-lab-site/posts/2026sip/</link>
+      <pubDate>Fri, 07 Aug 2026 17:56:48 +0900</pubDate>
+      <guid>https://ubi-sense-lab.github.io/ubi-sense-lab-site/posts/2026sip/</guid>
+      <description>&lt;p&gt;2026年8月7日に映像情報メディア学会スポーツ情報処理研究会が開催されました。MIRUから引き続き長崎ですが、会場はMIRUの出島メッセから、路面電車で2駅ぐらい離れた、長崎大学のスタジアムシティのキャンパスです。&lt;/p&gt;&#xA;&lt;p&gt;今回のスポーツ情報処理研究会は、MIRUの内容をスポーツｘテクノロジーのコミュニティで密なディスカッションをすることを推奨する、というコンセプトでしたので、発表はMIRUとかなり重複しますが、&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;堀野陽路，北野大志，三上　弾（工学院大），赤外線影幾何に基づく視覚非干渉型単眼三次元ボール軌道計測&lt;/li&gt;&#xA;&lt;li&gt;瀧川忠大, 三上弾（工学院大），躍度の$L_1$正則化を用いた姿勢推定系列の時系列最適化&lt;/li&gt;&#xA;&lt;li&gt;石﨑大暉, 三上弾（工学院大），スポーツインタラクション解析のための鏡を用いた2地点高解像度撮影&lt;/li&gt;&#xA;&lt;li&gt;伊藤彰吾, 北野大志, 三上弾（工学院大），動的環境を対象としたDFFによるDepth推定&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;の4件と、慶應義塾大学との共同研究&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;澤藤幹太, 大坪麟太郎（慶大）, 三上弾（工学院大）, 斎藤英雄（慶大），単一の手持ちカメラ映像を用いたアメリカンフットボール試合状況の3次元再構成&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;の発表がありました。一般の講演に加えて、堀野君がCVSports2026の参加報告をしてくれました。&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;堀野陽路，三上　弾（工学院大），CVsports2026参加報告 ～ 最新技術動向の紹介 ～&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;スポーツを題材に研究をするメンバーが集まり、きれいな会場で研究会が開催されてとても心地よい研究会でした。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2026/08/3-6 MIRU（後半）</title>
+      <link>https://ubi-sense-lab.github.io/ubi-sense-lab-site/posts/2026miru2/</link>
+      <pubDate>Thu, 06 Aug 2026 17:56:48 +0900</pubDate>
+      <guid>https://ubi-sense-lab.github.io/ubi-sense-lab-site/posts/2026miru2/</guid>
+      <description>&lt;p&gt;2026年8月3-6日にMIRU（画像の認識・理解シンポジウム）が長崎で開催されています。ユビキタスセンシング研究室からも4件の研究成果を発表しています。M1の学生が3件と、M2の学生が1件でタイトルは以下の通りです。&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;瀧川忠大, 三上弾（工学院大），躍度の$L_1$正則化を用いた姿勢推定系列の時系列最適化&lt;/li&gt;&#xA;&lt;li&gt;石﨑大暉, 三上弾（工学院大），スポーツインタラクション解析のための鏡を用いた2地点高解像度撮影&lt;/li&gt;&#xA;&lt;li&gt;伊藤彰吾, 北野大志, 三上弾（工学院大），動的環境を対象としたDFFによるDepth推定&lt;/li&gt;&#xA;&lt;li&gt;北野大志, 中村千夏（工学院大）, 松村聖司, 西條直樹, 柏野牧夫（NTT）, 三上弾（工学院大），衣服着用環境における人物の正確な関節位置の取得&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;最終日の8/6には伊藤君のポスター発表がありました。&lt;/p&gt;&#xA;&lt;p&gt;MIRUはポスターの時間が2時間あり、デモは2時間x3日間ということで、どの発表もたくさんの議論ができて、また、聴衆の方の質問のとても鋭くて刺激的でした。&lt;/p&gt;&#xA;&lt;p&gt;来年もみんなで参加したいという気持ちを強くしました。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2026/08/3-6 MIRU（前半）</title>
+      <link>https://ubi-sense-lab.github.io/ubi-sense-lab-site/posts/2026miru/</link>
+      <pubDate>Wed, 05 Aug 2026 17:56:48 +0900</pubDate>
+      <guid>https://ubi-sense-lab.github.io/ubi-sense-lab-site/posts/2026miru/</guid>
+      <description>&lt;p&gt;2026年8月3-6日にMIRU（画像の認識・理解シンポジウム）が長崎で開催されています。ユビキタスセンシング研究室からも4件の研究成果を発表しています。M1の学生が3件と、M2の学生が1件でタイトルは以下の通りです。&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;瀧川忠大, 三上弾（工学院大），躍度の$L_1$正則化を用いた姿勢推定系列の時系列最適化&lt;/li&gt;&#xA;&lt;li&gt;石﨑大暉, 三上弾（工学院大），スポーツインタラクション解析のための鏡を用いた2地点高解像度撮影&lt;/li&gt;&#xA;&lt;li&gt;伊藤彰吾, 北野大志, 三上弾（工学院大），動的環境を対象としたDFFによるDepth推定&lt;/li&gt;&#xA;&lt;li&gt;北野大志, 中村千夏（工学院大）, 松村聖司, 西條直樹, 柏野牧夫（NTT）, 三上弾（工学院大），衣服着用環境における人物の正確な関節位置の取得&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;それに加えて、慶應義塾大学との共同研究の以下の発表があります。&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;澤藤幹太, 大坪麟太郎（慶大）, 三上弾（工学院大）, 斎藤英雄（慶大），単一の手持ちカメラ映像を用いたアメリカンフットボール試合状況の3次元再構成&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;今日までに、瀧川さんと石﨑さんの発表の発表が終わりました。明日は、伊藤さんの発表と、北野さんのデモ発表（デモ発表は8/4-6の3日通して発表です）があります。&lt;/p&gt;&#xA;&lt;p&gt;MIRUは近年のコンピュータビジョン・機械学習の盛り上がりを反映して研究発表は盛況で、企業ブースも大変な賑わいでした。企業ブースで様々なことを教えてもらえたのは、就活中のM1の学生たちにとって視野を広げる良い機会にもなったのではないかと思います。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2026/08/1-2 オープンキャンパス</title>
+      <link>https://ubi-sense-lab.github.io/ubi-sense-lab-site/posts/2026oc/</link>
+      <pubDate>Sat, 01 Aug 2026 17:56:48 +0900</pubDate>
+      <guid>https://ubi-sense-lab.github.io/ubi-sense-lab-site/posts/2026oc/</guid>
+      <description>&lt;p&gt;2026年8月1,2日に工学院大学新宿キャンパスのオープンキャンパスが開催されました。&lt;/p&gt;&#xA;&lt;p&gt;ユビキタスセンシング研究室は、23Fのフリースペースでデモとポスターの展示を行いました。デモは、M1の山崎君が修士の取り組みに関係したVRのデモを作成してくれて、とても盛り上がりました。&lt;/p&gt;&#xA;&lt;p&gt;また最近の学会発表のポスターについても興味を持って聞いてもらえて、公開した私たちにとっても有意義な活動になりました。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2026/06/4 CVPRW CVSports で、M2北野さん、M1堀野さん発表</title>
+      <link>https://ubi-sense-lab.github.io/ubi-sense-lab-site/posts/2026cvpr/</link>
+      <pubDate>Sat, 06 Jun 2026 17:56:48 +0900</pubDate>
+      <guid>https://ubi-sense-lab.github.io/ubi-sense-lab-site/posts/2026cvpr/</guid>
+      <description>&lt;p&gt;CV分野最難関国際会議のひとつであるCVPRに参加しています。M2の北野さん、M1の堀野さんがWorkshopであるCVSportsで発表しました。CVSportsは今年で12回目と伝統あるワークショップです。&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://ubi-sense-lab.github.io/ubi-sense-lab-site/images/IMG2690.jpg&#34; alt=&#34;photo1&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2026/05/12,26 研究室研究発表会</title>
+      <link>https://ubi-sense-lab.github.io/ubi-sense-lab-site/posts/2026labmeeting/</link>
+      <pubDate>Tue, 26 May 2026 17:56:48 +0900</pubDate>
+      <guid>https://ubi-sense-lab.github.io/ubi-sense-lab-site/posts/2026labmeeting/</guid>
+      <description>&lt;p&gt;2026年5月12日と26日の2回にわたって研究室内での研究発表会を行いました。12日には修士のメンバーに研究テーマを紹介してもらいました。26日は学部4年生に研究テーマを紹介してもらいました。活発なディスカッションが行われて、あっという間に時間が過ぎてしまいました。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2026/04/21 共同研究打ち合わせ＠東医大</title>
+      <link>https://ubi-sense-lab.github.io/ubi-sense-lab-site/posts/2026_0421%E6%9D%B1%E4%BA%AC%E5%8C%BB%E5%A4%A7/</link>
+      <pubDate>Tue, 21 Apr 2026 17:56:48 +0900</pubDate>
+      <guid>https://ubi-sense-lab.github.io/ubi-sense-lab-site/posts/2026_0421%E6%9D%B1%E4%BA%AC%E5%8C%BB%E5%A4%A7/</guid>
+      <description>&lt;p&gt;4年生3名と共同研究の打ち合わせに東京医大に行きました。マイクロサージャリーという顕微鏡下で対象を拡大しながら行う手術のスキル向上を目指した研究を検討中のため、実際にOrbeyeという最新の外視鏡を少し体験させて頂きました。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2026/04/03 入学式</title>
+      <link>https://ubi-sense-lab.github.io/ubi-sense-lab-site/posts/2026_0403%E5%85%A5%E5%AD%A6%E5%BC%8F/</link>
+      <pubDate>Fri, 03 Apr 2026 17:56:48 +0900</pubDate>
+      <guid>https://ubi-sense-lab.github.io/ubi-sense-lab-site/posts/2026_0403%E5%85%A5%E5%AD%A6%E5%BC%8F/</guid>
+      <description>&lt;p&gt;2026年4月3日に入学式が行われました。工学院大学全体では1936名の学生が入学してくれたそうです。ユビキタスセンシング研究室としては、7名が修士に進学してくれました。修士2年間では就活に割かれてしまう時間も多く意外とあっという間に過ぎてしまいますが、良い成果を残せるように頑張りたいと思います。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2026/03/26 CVPR Workshop（CVSports 2026）に3件の論文が採択されました</title>
+      <link>https://ubi-sense-lab.github.io/ubi-sense-lab-site/posts/2026-03-29cvsportsaccept/</link>
+      <pubDate>Fri, 27 Mar 2026 17:56:48 +0900</pubDate>
+      <guid>https://ubi-sense-lab.github.io/ubi-sense-lab-site/posts/2026-03-29cvsportsaccept/</guid>
+      <description>&lt;p&gt;本研究室および共同研究の成果として、3件の論文がCVPR 2026 のワークショップである CVSports 2026 に採択されました。&lt;/p&gt;&#xA;&lt;p&gt;CVPR は、コンピュータビジョン分野における世界最高峰の国際会議の一つであり、CVSportsはその中でもスポーツ分野への応用に特化したワークショップです。トップレベルの研究者・実務者が集まり、スポーツに関する解析・理解・応用技術に関する最新の研究成果が議論されます。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2026/03/24 ITE-SIP研究会 で瀧川さんが発表</title>
+      <link>https://ubi-sense-lab.github.io/ubi-sense-lab-site/posts/2026_03sip/</link>
+      <pubDate>Tue, 24 Mar 2026 17:56:48 +0900</pubDate>
+      <guid>https://ubi-sense-lab.github.io/ubi-sense-lab-site/posts/2026_03sip/</guid>
+      <description>&lt;p&gt;2026年3月24日～25日に徳島県徳島市で開催されているPRMU/CVIM/IBISML/SIP合同研究会でB4の瀧川さんが発表を行いました。瀧川さんは、VRを用いた野球トレーニングシステムにおける投手の表現方法に関して、野球部の選手を対象に主観評価実験を行いその結果を発表しました。&lt;/p&gt;&#xA;&lt;p&gt;結構大きな会場にたくさんの聴衆で緊張の学会発表デビューだったかと思います。PRMUは発表時には質疑応答がなく、セッション最後に30分のディスカッションタイムが設けられています。ディスカッションタイムにも多くの方が聞いて下さいました。&lt;/p&gt;&#xA;&lt;p&gt;発表にあたっては、工学院大学付属高校の野球部に協力頂きました。ありがとうございました！&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2026/03/19 卒業式</title>
+      <link>https://ubi-sense-lab.github.io/ubi-sense-lab-site/posts/2026_0319%E5%8D%92%E6%A5%AD%E5%BC%8F/</link>
+      <pubDate>Fri, 20 Mar 2026 17:56:48 +0900</pubDate>
+      <guid>https://ubi-sense-lab.github.io/ubi-sense-lab-site/posts/2026_0319%E5%8D%92%E6%A5%AD%E5%BC%8F/</guid>
+      <description>&lt;p&gt;2026年3月19日に卒業式が行われました。ユビキタスセンシング研究室からは、修士課程を4名が修了し、学部を9名が卒業しました（学部生はうち、6人が修士課程に進学します）。夕方からは新宿キャンパス内で宴会をしました。いつもお世話になっている大和研とも混ざり、多くのOBも遊びに来てくれてとても楽しい一日でした。遊びに来てくれた皆さんもありがとうございました！私は、修了の皆さんからお花とプレゼントを頂いてしまい感激です。&lt;/p&gt;&#xA;&lt;p&gt;研究室を離れる皆さんがますます活躍されること、確信しています、頑張ってくださいね。研究室に残る皆さんは、後輩ができますし、ますます有意義な活動ができるように一緒に頑張りましょう。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2026/03/16 MVE研究会 で堀野さんが発表</title>
+      <link>https://ubi-sense-lab.github.io/ubi-sense-lab-site/posts/2026_03mve/</link>
+      <pubDate>Mon, 16 Mar 2026 17:56:48 +0900</pubDate>
+      <guid>https://ubi-sense-lab.github.io/ubi-sense-lab-site/posts/2026_03mve/</guid>
+      <description>&lt;p&gt;2026年3月16日～18日に沖縄県那覇市で開催されているMVE3月研究会でB4の堀野さんが発表を行いました。堀野さんは、赤外光が作る影を用いて1台のカメラから精度良くボールの三次元軌道を推定する手法を提案しました。&lt;/p&gt;&#xA;&lt;p&gt;発表後には聴講してくださった他大学の先生や、1月にあった国際会議IWAITで知り合った他大学の学生が詳しく話を聞いて下さって有意義な議論ができて良かったです。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>2026/02/19 北野さん「工学院大学大学院生優秀論文」を受賞</title>
-      <link>https://ubi-sense-lab.github.io/lab-web/posts/2026-02-19kitano/</link>
+      <link>https://ubi-sense-lab.github.io/ubi-sense-lab-site/posts/2026-02-19kitano/</link>
       <pubDate>Thu, 19 Feb 2026 17:56:48 +0900</pubDate>
-      <guid>https://ubi-sense-lab.github.io/lab-web/posts/2026-02-19kitano/</guid>
+      <guid>https://ubi-sense-lab.github.io/ubi-sense-lab-site/posts/2026-02-19kitano/</guid>
       <description>&lt;p&gt;M1の北野さんが「工学院大学大学院生優秀論文」を受賞しました．北野さんおめでとうございます．&lt;/p&gt;&#xA;&lt;p&gt;2/19に優秀論文発表会がオンラインで開催されました．情報学専攻で優秀論文として選出されたのは3件で，北野さん以外は博士課程の学生さんでした．M1での優秀論文選出ということで快挙です．&lt;/p&gt;</description>
     </item>
     <item>
       <title>2026/02/18 修論審査会が開催されました</title>
-      <link>https://ubi-sense-lab.github.io/lab-web/posts/2026-02-18-master-thesis-defense/</link>
+      <link>https://ubi-sense-lab.github.io/ubi-sense-lab-site/posts/2026-02-18-master-thesis-defense/</link>
       <pubDate>Wed, 18 Feb 2026 17:56:48 +0900</pubDate>
-      <guid>https://ubi-sense-lab.github.io/lab-web/posts/2026-02-18-master-thesis-defense/</guid>
+      <guid>https://ubi-sense-lab.github.io/ubi-sense-lab-site/posts/2026-02-18-master-thesis-defense/</guid>
       <description>&lt;p&gt;2026年2月17，18日に工学院大学大学院工学研究科情報学専攻の修論審査会が開催されました．ユビキタスセンシング研究室のメンバーは全員2月18日に発表しました．4名とも良い発表をしてくれました．発表お疲れさまでした．&lt;/p&gt;</description>
     </item>
     <item>
       <title>2026/02/02-03 卒論発表会が開催されました</title>
-      <link>https://ubi-sense-lab.github.io/lab-web/posts/2026-02-03-b/</link>
+      <link>https://ubi-sense-lab.github.io/ubi-sense-lab-site/posts/2026-02-03-b/</link>
       <pubDate>Tue, 03 Feb 2026 17:56:48 +0900</pubDate>
-      <guid>https://ubi-sense-lab.github.io/lab-web/posts/2026-02-03-b/</guid>
+      <guid>https://ubi-sense-lab.github.io/ubi-sense-lab-site/posts/2026-02-03-b/</guid>
       <description>&lt;p&gt;2026年2月2日，3日の二日間に渡って卒論発表会が行われました．ユビキタスセンシング研究室からは9名（正式な所属は他研究室なのですが実質ユビキタスセンシング研究室で研究を行った1名の合計10名）が立派な発表をしてくれました．皆さんお疲れさまでした．&lt;/p&gt;</description>
     </item>
     <item>
       <title>2026/01/15 IWAIT2026 で小川さん、三浦さんが発表</title>
-      <link>https://ubi-sense-lab.github.io/lab-web/posts/2026iwait/</link>
+      <link>https://ubi-sense-lab.github.io/ubi-sense-lab-site/posts/2026iwait/</link>
       <pubDate>Tue, 13 Jan 2026 17:56:48 +0900</pubDate>
-      <guid>https://ubi-sense-lab.github.io/lab-web/posts/2026iwait/</guid>
+      <guid>https://ubi-sense-lab.github.io/ubi-sense-lab-site/posts/2026iwait/</guid>
       <description>&lt;p&gt;2026年1月12日～13日に台湾の高雄で開催されたIWAIT2026でM2の小川さんと三浦さんがそれぞれ発表を行いました．小川さんは，打者が打席に入る際のルーティンを自動抽出し，変化を分析する取り組みを発表しました．三浦さんは，VRを用いたバッティングトレーニングの新しい形態としてティーバッティングを，詳細なスイング分析をしながら実行するという練習方法の提案を発表しました．&lt;/p&gt;</description>
     </item>
     <item>
       <title>2025/12/12 HCGシンポジウム 青木真吾さんが最優秀インタラクティブ発表賞を受賞</title>
-      <link>https://ubi-sense-lab.github.io/lab-web/posts/2025hcgsympo/</link>
+      <link>https://ubi-sense-lab.github.io/ubi-sense-lab-site/posts/2025hcgsympo/</link>
       <pubDate>Sat, 13 Dec 2025 17:56:48 +0900</pubDate>
-      <guid>https://ubi-sense-lab.github.io/lab-web/posts/2025hcgsympo/</guid>
+      <guid>https://ubi-sense-lab.github.io/ubi-sense-lab-site/posts/2025hcgsympo/</guid>
       <description>&lt;p&gt;M2の青木真吾さんがHCGシンポジウム2025で発表しました．埼玉西武ライオンズ、NTTと共同で取り組んだテーマで、打者のタイミング能力を計測するという取り組みです．青木さんの発表は最優秀インタラクティブ発表賞をもらうことができました．青木さんおめでとうございます．そして協力してくださった皆様に感謝いたします．&lt;/p&gt;</description>
     </item>
     <item>
       <title>2025/10/2-3 MVE研究会＠網走にてM2小川さん、B4中村さんが発表</title>
-      <link>https://ubi-sense-lab.github.io/lab-web/posts/2025mvehokkaido/</link>
+      <link>https://ubi-sense-lab.github.io/ubi-sense-lab-site/posts/2025mvehokkaido/</link>
       <pubDate>Fri, 03 Oct 2025 17:56:48 +0900</pubDate>
-      <guid>https://ubi-sense-lab.github.io/lab-web/posts/2025mvehokkaido/</guid>
+      <guid>https://ubi-sense-lab.github.io/ubi-sense-lab-site/posts/2025mvehokkaido/</guid>
       <description>&lt;p&gt;毎年恒例の北海道での合同研究会が開催されました。今年は網走ということで北海道シリーズとしてはとても行きやすい場所でした。&lt;/p&gt;&#xA;&lt;p&gt;M2の小川さん、B4の中村さんがそれぞれ発表しました。&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;小川莉莉香，松村聖司，西條直樹，柏野牧夫，三上弾，類似動作に着目した野球選手のルーティンの構造化 MVE2025-18, 2025&lt;/li&gt;&#xA;&lt;li&gt;中村千夏, 北野大志, 井原拓哉, 藤田浩二, 三上弾, ゆったりとした衣服を着用した人物の関節位置の学習可能性 ～ 人手でのアノテーションを対象とした検証 ～, MVE2025-19, 2025&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;北海道シリーズでは例年学生の懇親会参加率が高く（他大学の皆さんも含めて）、学生間の交流も広がるようで楽しい会合です。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2025/10/2 石崎さんの8月MVE研究会での発表がMVE賞を受賞</title>
+      <link>https://ubi-sense-lab.github.io/ubi-sense-lab-site/posts/2025-10-02ishizaki/</link>
+      <pubDate>Thu, 02 Oct 2025 17:56:48 +0900</pubDate>
+      <guid>https://ubi-sense-lab.github.io/ubi-sense-lab-site/posts/2025-10-02ishizaki/</guid>
+      <description>&lt;p&gt;8月のMVE研究会での石﨑さんの発表がMVE賞を受けたとの通知を頂きました．石﨑さんおめでとうございます．&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2025/09/29 北野さんがIEEE Accessに投稿していた論文の採録通知が届きました</title>
+      <link>https://ubi-sense-lab.github.io/ubi-sense-lab-site/posts/2025-09-25kitano/</link>
+      <pubDate>Mon, 29 Sep 2025 17:56:48 +0900</pubDate>
+      <guid>https://ubi-sense-lab.github.io/ubi-sense-lab-site/posts/2025-09-25kitano/</guid>
+      <description>&lt;p&gt;M1の北野さんが投稿していた論文の採録通知が届きました．&lt;/p&gt;&#xA;&lt;p&gt;北野さんが卒業研究の内容をまとめたものです．&lt;/p&gt;&#xA;&lt;p&gt;追記：&lt;/p&gt;&#xA;&lt;p&gt;Daishi Kitano and Dan Mikami, Pitch Location Measurement Using a Single Camera and Radar Gun,&lt;/p&gt;&#xA;&lt;p&gt;IEEE Access, Volume 13, pp. 175336-175343, 8 pp., 2025.&lt;/p&gt;&#xA;&lt;p&gt;Open Accessなので&lt;a href=&#34;https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11195121&#34;&gt;こちら&lt;/a&gt;から誰でも読めます。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2025/8/28-29 MVE研究会＠中京大学にてM2青木さん、M1北野さん、B4石﨑さんが発表</title>
+      <link>https://ubi-sense-lab.github.io/ubi-sense-lab-site/posts/2025mvechukyo/</link>
+      <pubDate>Fri, 29 Aug 2025 17:56:48 +0900</pubDate>
+      <guid>https://ubi-sense-lab.github.io/ubi-sense-lab-site/posts/2025mvechukyo/</guid>
+      <description>&lt;p&gt;電子情報通信学会MVE研究会が中京大学名古屋キャンパスで開催されました。&lt;/p&gt;&#xA;&lt;p&gt;M2青木さん、M1北野さん、B4石﨑さんがそれぞれ発表しました。&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;青木真吾, 北澤翔太, 西條直樹, 三上弾, 試合データに基づく打者のタイミング能力指標の評価 MVE2025-15, 2025.&lt;/li&gt;&#xA;&lt;li&gt;北野大志, 松村聖司, 西條直樹, 柏野牧夫, 三上弾, ゆったりとした衣服を着用した人物の姿勢推定 ～ IRカメラと赤外線LEDを用いた基礎検証 ～ MVE2025-12, 2025.&lt;/li&gt;&#xA;&lt;li&gt;石﨑大暉, 三上弾, 鏡を用いた投手と打者の同期撮影の省力化および高解像度化, MVE2025-17, 2025.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;活発に質疑頂けてとても勉強になる研究会でした．&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

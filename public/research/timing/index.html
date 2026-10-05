@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="ja-jp">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Data-Driven Evaluation of Batting Timing | Ubi-Sense Lab</title>
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="description" content="タイミング能力に関する研究">
+    <meta name="generator" content="Hugo 0.155.2">
+    
+    
+    
+      <meta name="robots" content="index, follow">
+    
+    
+
+    
+<link rel="stylesheet" href="/ubi-sense-lab-site/ananke/css/main.min.efe4d852f731d5d1fbb87718387202a97aafd768cdcdaed0662bbe6982e91824.css" >
+
+
+
+  
+    <link rel="stylesheet" href="/ubi-sense-lab-site/css/custom.css">
+  
+
+
+    
+
+
+    
+      
+
+    
+
+    
+
+    
+      <link rel="canonical" href="https://ubi-sense-lab.github.io/ubi-sense-lab-site/research/timing/">
+    
+
+    
+    
+    <meta property="og:url" content="https://ubi-sense-lab.github.io/ubi-sense-lab-site/research/timing/">
+  <meta property="og:site_name" content="Ubi-Sense Lab">
+  <meta property="og:title" content="Data-Driven Evaluation of Batting Timing">
+  <meta property="og:description" content="タイミング能力に関する研究">
+  <meta property="og:locale" content="ja_jp">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="research">
+    <meta property="article:published_time" content="2026-05-29T00:00:00+00:00">
+    <meta property="article:modified_time" content="2026-05-29T00:00:00+00:00">
+
+  <meta itemprop="name" content="Data-Driven Evaluation of Batting Timing">
+  <meta itemprop="description" content="タイミング能力に関する研究">
+  <meta itemprop="datePublished" content="2026-05-29T00:00:00+00:00">
+  <meta itemprop="dateModified" content="2026-05-29T00:00:00+00:00">
+  <meta itemprop="wordCount" content="15">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Data-Driven Evaluation of Batting Timing">
+  <meta name="twitter:description" content="タイミング能力に関する研究">
+
+      
+      
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-GQF8R17J89"></script>
+      <script>
+        var doNotTrack = false;
+        if ( true ) {
+          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+          var doNotTrack = (dnt == "1" || dnt == "yes");
+        }
+        if (!doNotTrack) {
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-GQF8R17J89');
+        }
+      </script>
+    
+	
+  </head><body class="ma0 avenir bg-near-white production is-page is-page page-timing">
+    
+   
+  
+
+  
+  
+  
+  <header class="cover bg-center" style="background-image: url('https://ubi-sense-lab.github.io/ubi-sense-lab-site/images/research/aoki.jpg');">
+    <div class="bg-black-60">
+      <nav class="pv3 ph3 ph4-ns" role="navigation">
+  <div class="flex-l center items-center justify-between">
+    <a href="/ubi-sense-lab-site/" class="f3 fw2 hover-white white-90 dib no-underline">
+      
+        Ubi-Sense Lab
+      
+    </a>
+    <div class="flex-l items-center">
+      
+
+      
+        <ul class="pl0 mr3">
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white white-90 no-underline" href="/ubi-sense-lab-site/" title="Home page">
+              Home
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white white-90 no-underline" href="/ubi-sense-lab-site/research/" title="Research page">
+              Research
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white white-90 no-underline" href="/ubi-sense-lab-site/members/" title="Members page">
+              Members
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white white-90 no-underline" href="/ubi-sense-lab-site/publications/" title="Publications page">
+              Publications
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white white-90 no-underline" href="/ubi-sense-lab-site/awards/" title="Awards page">
+              Awards
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white white-90 no-underline" href="/ubi-sense-lab-site/students/" title="研究室で学びたい人へ page">
+              研究室で学びたい人へ
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white white-90 no-underline" href="/ubi-sense-lab-site/video/" title="動画コンテンツ page">
+              動画コンテンツ
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white white-90 no-underline" href="/ubi-sense-lab-site/posts/" title="News page">
+              News
+            </a>
+          </li>
+          
+        </ul>
+      
+      <div class="ananke-socials"></div>
+
+    </div>
+  </div>
+</nav>
+
+      <div class="tc-l pv6 ph3 ph4-ns">
+        
+          <div class="f2 f1-l fw2 white-90 mb0 lh-title">Data-Driven Evaluation of Batting Timing</div>
+          
+        
+      </div>
+    </div>
+  </header>
+
+
+
+    <main class="pb7" role="main">
+      
+  
+
+  <article class="page-timing flex-l mw7 center ph3 flex-wrap justify-between">
+    <header class="mt4 w-100">
+      <aside class="instapaper_ignoref b helvetica tracked ttu">
+          
+        Research
+      </aside><div id="sharing" class="mt3 ananke-socials"></div>
+<h1 class="f1 athelas mt3 mb1">Data-Driven Evaluation of Batting Timing</h1>
+      
+      
+      
+      <time class="f6 mv4 dib tracked" datetime="2026-05-29T00:00:00Z">May 29, 2026</time>
+      
+
+      
+      
+    </header>
+    <div class="nested-copy-line-height lh-copy serif f4 nested-links mid-gray pr4-l w-100-l"><p>Data-Driven Evaluation of Batting Timing</p>
+<p>実戦データを用いた打撃タイミング能力の定量評価</p>
+<p>野球の打撃では，ボールがホームベースに到達するまで速いボールでは約0.4秒程度、一方で遅いボールでは0.6秒程度と様々に変化します。投手はそれをバッターに分からせないように投げ分けます。
+打者は投手がボールをリリースしてからボールが到達するまでの間に、軌道を予測し、適切なタイミングでスイングを開始する必要があります。</p>
+<p>従来のソフトボールを対象とした研究では、実験室環境において「投球到達時間」と「スイング開始時刻」の関係を各打者ごとに分析し，調整の安定性を評価していました。しかし実際の試合を対象として試したところ，カウント状況や配球戦略などの影響もあり，安定していることが必ずしも良い打撃成績につながるわけではないことが分かりました。</p>
+<p>そこで本研究では発想を転換し，</p>
+<p><strong>良い結果を生んだタイミングにどれだけ近いか</strong></p>
+<p>という観点からタイミング能力を評価する方法を提案しました。</p>
+<p>実際の公式戦データ（TrackMan＋試合映像）を用いて，
+長打が生まれたスイングだけを抽出し，そこから統計的に“理想的なスイング開始タイミング”を定義します。各打者がその理想タイミングからどれだけずれているかを数値化することで，実戦環境におけるタイミング能力を評価します。</p>
+<figure><img src="/ubi-sense-lab-site/images/research/aoki.jpg"
+    alt="理想タイミングからのずれと打撃成績の関係"><figcaption>
+      <p>理想タイミングからのずれと打撃成績の関係</p>
+    </figcaption>
+</figure>
+
+<ul class="pa0">
+  
+</ul>
+
+      
+    </div></article>
+
+    </main>
+    <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
+  <div class="flex justify-between">
+  <a class="f4 fw4 hover-white white-70 dn dib-ns pv2 ph3 no-underline" href="https://ubi-sense-lab.github.io/ubi-sense-lab-site/" >
+    &copy;  Ubi-Sense Lab 2026 
+  </a>
+    <div><div class="ananke-socials"></div>
+</div>
+  </div>
+</footer>
+
+  </body>
+</html>

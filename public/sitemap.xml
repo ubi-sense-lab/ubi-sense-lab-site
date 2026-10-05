@@ -2,42 +2,99 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ubi-sense-lab.github.io/lab-web/research/</loc>
+    <loc>https://ubi-sense-lab.github.io/ubi-sense-lab-site/research/</loc>
+    <lastmod>2026-05-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ubi-sense-lab.github.io/lab-web/</loc>
+    <loc>https://ubi-sense-lab.github.io/ubi-sense-lab-site/</loc>
+    <lastmod>2026-09-18T17:56:48+09:00</lastmod>
+  </url><url>
+    <loc>https://ubi-sense-lab.github.io/ubi-sense-lab-site/posts/2026his/</loc>
+    <lastmod>2026-09-18T17:56:48+09:00</lastmod>
+  </url><url>
+    <loc>https://ubi-sense-lab.github.io/ubi-sense-lab-site/posts/</loc>
+    <lastmod>2026-09-18T17:56:48+09:00</lastmod>
+  </url><url>
+    <loc>https://ubi-sense-lab.github.io/ubi-sense-lab-site/posts/2026sip/</loc>
+    <lastmod>2026-08-07T17:56:48+09:00</lastmod>
+  </url><url>
+    <loc>https://ubi-sense-lab.github.io/ubi-sense-lab-site/posts/2026miru2/</loc>
+    <lastmod>2026-08-06T17:56:48+09:00</lastmod>
+  </url><url>
+    <loc>https://ubi-sense-lab.github.io/ubi-sense-lab-site/posts/2026miru/</loc>
+    <lastmod>2026-08-05T17:56:48+09:00</lastmod>
+  </url><url>
+    <loc>https://ubi-sense-lab.github.io/ubi-sense-lab-site/posts/2026oc/</loc>
+    <lastmod>2026-08-01T17:56:48+09:00</lastmod>
+  </url><url>
+    <loc>https://ubi-sense-lab.github.io/ubi-sense-lab-site/posts/2026cvpr/</loc>
+    <lastmod>2026-06-06T17:56:48+09:00</lastmod>
+  </url><url>
+    <loc>https://ubi-sense-lab.github.io/ubi-sense-lab-site/research/mocap/</loc>
+    <lastmod>2026-05-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ubi-sense-lab.github.io/ubi-sense-lab-site/research/timing/</loc>
+    <lastmod>2026-05-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ubi-sense-lab.github.io/ubi-sense-lab-site/posts/2026labmeeting/</loc>
+    <lastmod>2026-05-26T17:56:48+09:00</lastmod>
+  </url><url>
+    <loc>https://ubi-sense-lab.github.io/ubi-sense-lab-site/posts/2026_0421%E6%9D%B1%E4%BA%AC%E5%8C%BB%E5%A4%A7/</loc>
+    <lastmod>2026-04-21T17:56:48+09:00</lastmod>
+  </url><url>
+    <loc>https://ubi-sense-lab.github.io/ubi-sense-lab-site/posts/2026_0403%E5%85%A5%E5%AD%A6%E5%BC%8F/</loc>
+    <lastmod>2026-04-03T17:56:48+09:00</lastmod>
+  </url><url>
+    <loc>https://ubi-sense-lab.github.io/ubi-sense-lab-site/posts/2026-03-29cvsportsaccept/</loc>
+    <lastmod>2026-03-27T17:56:48+09:00</lastmod>
+  </url><url>
+    <loc>https://ubi-sense-lab.github.io/ubi-sense-lab-site/posts/2026_03sip/</loc>
+    <lastmod>2026-03-24T17:56:48+09:00</lastmod>
+  </url><url>
+    <loc>https://ubi-sense-lab.github.io/ubi-sense-lab-site/posts/2026_0319%E5%8D%92%E6%A5%AD%E5%BC%8F/</loc>
+    <lastmod>2026-03-20T17:56:48+09:00</lastmod>
+  </url><url>
+    <loc>https://ubi-sense-lab.github.io/ubi-sense-lab-site/posts/2026_03mve/</loc>
+    <lastmod>2026-03-16T17:56:48+09:00</lastmod>
+  </url><url>
+    <loc>https://ubi-sense-lab.github.io/ubi-sense-lab-site/posts/2026-02-19kitano/</loc>
     <lastmod>2026-02-19T17:56:48+09:00</lastmod>
   </url><url>
-    <loc>https://ubi-sense-lab.github.io/lab-web/posts/2026-02-19kitano/</loc>
-    <lastmod>2026-02-19T17:56:48+09:00</lastmod>
-  </url><url>
-    <loc>https://ubi-sense-lab.github.io/lab-web/posts/</loc>
-    <lastmod>2026-02-19T17:56:48+09:00</lastmod>
-  </url><url>
-    <loc>https://ubi-sense-lab.github.io/lab-web/posts/2026-02-18-master-thesis-defense/</loc>
+    <loc>https://ubi-sense-lab.github.io/ubi-sense-lab-site/posts/2026-02-18-master-thesis-defense/</loc>
     <lastmod>2026-02-18T17:56:48+09:00</lastmod>
   </url><url>
-    <loc>https://ubi-sense-lab.github.io/lab-web/posts/2026-02-03-b/</loc>
+    <loc>https://ubi-sense-lab.github.io/ubi-sense-lab-site/posts/2026-02-03-b/</loc>
     <lastmod>2026-02-03T17:56:48+09:00</lastmod>
   </url><url>
-    <loc>https://ubi-sense-lab.github.io/lab-web/posts/2026iwait/</loc>
+    <loc>https://ubi-sense-lab.github.io/ubi-sense-lab-site/posts/2026iwait/</loc>
     <lastmod>2026-01-13T17:56:48+09:00</lastmod>
   </url><url>
-    <loc>https://ubi-sense-lab.github.io/lab-web/posts/2025hcgsympo/</loc>
+    <loc>https://ubi-sense-lab.github.io/ubi-sense-lab-site/posts/2025hcgsympo/</loc>
     <lastmod>2025-12-13T17:56:48+09:00</lastmod>
   </url><url>
-    <loc>https://ubi-sense-lab.github.io/lab-web/posts/2025mvehokkaido/</loc>
+    <loc>https://ubi-sense-lab.github.io/ubi-sense-lab-site/posts/2025mvehokkaido/</loc>
     <lastmod>2025-10-03T17:56:48+09:00</lastmod>
   </url><url>
-    <loc>https://ubi-sense-lab.github.io/lab-web/awards/</loc>
+    <loc>https://ubi-sense-lab.github.io/ubi-sense-lab-site/posts/2025-10-02ishizaki/</loc>
+    <lastmod>2025-10-02T17:56:48+09:00</lastmod>
   </url><url>
-    <loc>https://ubi-sense-lab.github.io/lab-web/categories/</loc>
+    <loc>https://ubi-sense-lab.github.io/ubi-sense-lab-site/posts/2025-09-25kitano/</loc>
+    <lastmod>2025-09-29T17:56:48+09:00</lastmod>
   </url><url>
-    <loc>https://ubi-sense-lab.github.io/lab-web/members/</loc>
+    <loc>https://ubi-sense-lab.github.io/ubi-sense-lab-site/posts/2025mvechukyo/</loc>
+    <lastmod>2025-08-29T17:56:48+09:00</lastmod>
   </url><url>
-    <loc>https://ubi-sense-lab.github.io/lab-web/publications/</loc>
+    <loc>https://ubi-sense-lab.github.io/ubi-sense-lab-site/awards/</loc>
   </url><url>
-    <loc>https://ubi-sense-lab.github.io/lab-web/tags/</loc>
+    <loc>https://ubi-sense-lab.github.io/ubi-sense-lab-site/categories/</loc>
   </url><url>
-    <loc>https://ubi-sense-lab.github.io/lab-web/students/</loc>
+    <loc>https://ubi-sense-lab.github.io/ubi-sense-lab-site/members/</loc>
+  </url><url>
+    <loc>https://ubi-sense-lab.github.io/ubi-sense-lab-site/publications/</loc>
+  </url><url>
+    <loc>https://ubi-sense-lab.github.io/ubi-sense-lab-site/tags/</loc>
+  </url><url>
+    <loc>https://ubi-sense-lab.github.io/ubi-sense-lab-site/video/</loc>
+  </url><url>
+    <loc>https://ubi-sense-lab.github.io/ubi-sense-lab-site/students/</loc>
   </url>
 </urlset>
